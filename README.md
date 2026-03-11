@@ -18,3 +18,6 @@ Böylece aynı move() metodu çağrılsa bile her kuş türü farklı şekilde h
 
 
 Bu kod çalıştırıldığında her nesne kendi move() metoduna göre hareket eder. Bu da çok biçimliliğin nasıl çalıştığını gösterir.
+
+
+![Açıklama](ekran.jpeg)
